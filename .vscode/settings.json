@@ -1,0 +1,52 @@
+{
+  "workbench.colorCustomizations": {
+    "[Andromeda Bordered]": {
+        "panel.background": "#000000",
+        "sideBar.background": "#160127",
+        "sideBar.foreground":"#fff",
+        "sideBarTitle.foreground":"#fff",
+        "sideBarSectionHeader.background":"#160127",
+      
+        "sideBar.dropBackground": "#000",
+     
+        "sideBar.border":"#fff",
+       
+        "list.focusForeground":"#fff",
+        "list.focusBackground":"#7866c9",
+        "list.hoverBackground": "#2B2B52",
+        "list.hoverForeground":"#fff",
+        "list.activeSelectionForeground":"#fff",
+        "list.activeSelectionBackground": "#000",
+        "list.inactiveSelectionBackground":"#000",
+        "list.inactiveSelectionForeground":"#fff",
+        //sidebar finishes here
+       "minimap.background":"#ff0000",
+       "minimapSlider.background":"#ff0000",
+       "terminal.background":"#000000",
+       "terminal.foreground": "#ff6633",
+       "editor.foldBackground":"#fff",
+       "editor.background":"#222020",
+       "editorCursor.background":"#000",
+        "activityBar.background":"#D63031",
+        "activityBar.foreground":"#fff",
+        "activityBar.inactiveForeground":"#222",
+      
+        "activityBar.border":"#222",
+       
+        "sideBarSectionHeader.foreground":"#fff",
+        "button.foreground":"#fff",
+        "checkbox.foreground":"#fff",
+      
+       
+
+    }
+
+  },
+  "workbench.preferredDarkColorTheme": "One Dark Pro",
+  "materialTheme.accent": "Breaking Bad",
+  "editor.tokenColorCustomizations": null,
+  "editor.tokenColorCustomizationsExperimental": null,
+
+   
+}
+}
